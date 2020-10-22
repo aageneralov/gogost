@@ -1,5 +1,5 @@
 module github.com/aageneralov/gogost/v5
 
-go 1.12
+go 1.13
 
 require golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
